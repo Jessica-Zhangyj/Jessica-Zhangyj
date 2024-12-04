@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jessica-Zhangyj
 - 👀 I’m interested in Data Science, LLM, Machine Learning...(others:kpop,jazz,badminton,piano...)
 - 🌱 I’m currently learning the basic knowledge of computer science(totally freshman in USTC)
+- I'm chasing for chances to study abroad!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 -         zyj051212@mail.ustc.edu.cn
