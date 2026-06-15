@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jessica-Zhangyj
 - 💗 You can call me Jessica, Yujie, or Yu-Chieh~
 - 🌲 Taiwanese student @ USTC | Incoming Visiting Student @ UC Berkeley
-- 🔬 Research Intern @ Tsinghua University, working on Multimodal AI & Generative Models (Advised by Prof. Chun Yuan)
+- 🔬 Research Intern @ Tsinghua University（SIGS), working on Multimodal AI & Generative Models (Advised by Prof. Chun Yuan)
 - 👀 I’m interested in Data Science, LLMs, Generative AI, and Multimodal Learning. 
   *(Also love K-pop, jazz, badminton, and piano! 🎹)*
 - 🚀 Actively seeking global research opportunities and graduate study openings.
