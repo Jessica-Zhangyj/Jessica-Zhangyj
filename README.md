@@ -3,7 +3,7 @@
 - 🌲 Taiwanese student @ USTC | Incoming Visiting Student @ UC Berkeley
 - 🔬 Research Intern @ Tsinghua University（SIGS), working on Multimodal AI & Generative Models (Advised by Prof. Chun Yuan)
 - 👀 I’m interested in Data Science, LLMs, Generative AI, and Multimodal Learning. 
-  *(Also love K-pop, jazz, badminton, and piano! 🎹)*
+  *(Also love K-pop, jazz, choreography, badminton🏸, and piano🎹!（also a tennis beginner 🎾）)*
 - 🚀 Actively seeking global research opportunities and graduate study openings.
 - 💞️ I’m looking to collaborate on open-source AI projects, agent frameworks, or data science research.
 - 📫 How to reach me:
