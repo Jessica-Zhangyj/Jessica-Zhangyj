@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @Jessica-Zhangyj
-- 👀 I’m interested in Data Science, LLM, Machine Learning...(others:kpop,jazz,badminton,piano...)
-- I'm chasing for chances to study abroad!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
--         zyj051212@mail.ustc.edu.cn
--         zzhangyujie051212@gmail.com
--         z20051212zyj@icloud.com 
-
+- 💗 You can call me Jessica, Yujie, or Yu-Chieh~
+- 🌲 Taiwanese student @ USTC | Incoming Visiting Student @ UC Berkeley
+- 👀 I’m interested in Data Science, LLMs, Generative AI, and Multimodal Learning. 
+  *(Also love K-pop, jazz, badminton, and piano! 🎹)*
+- 🚀 Actively seeking global research opportunities and graduate study openings.
+- 💞️ I’m looking to collaborate on open-source AI projects, agent frameworks, or data science research.
+- 📫 How to reach me:
+  - 📧 zyj051212@mail.ustc.edu.cn
+  - 📧 zzhangyujie051212@gmail.com
+  - 📧 changyc12@berkeley.edu
 
 <!---
 Jessica-Zhangyj/Jessica-Zhangyj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
